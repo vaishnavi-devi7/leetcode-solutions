@@ -8,12 +8,22 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
