@@ -34,10 +34,12 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
