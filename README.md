@@ -36,17 +36,32 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0048-rotate-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
