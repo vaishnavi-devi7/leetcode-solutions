@@ -34,6 +34,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -55,6 +56,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,9 +72,14 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
