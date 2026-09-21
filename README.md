@@ -8,6 +8,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -34,6 +35,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -42,6 +44,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -50,6 +53,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
