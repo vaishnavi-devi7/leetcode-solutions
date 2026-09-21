@@ -91,5 +91,6 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
