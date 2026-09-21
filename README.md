@@ -88,4 +88,8 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
