@@ -45,6 +45,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -76,6 +77,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
