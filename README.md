@@ -52,6 +52,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +97,8 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0584-find-customer-referee](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
