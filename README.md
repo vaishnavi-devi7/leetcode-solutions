@@ -100,6 +100,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0584-find-customer-referee](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
