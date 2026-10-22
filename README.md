@@ -113,6 +113,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [1729-find-followers-count](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Sliding Window
 |  |
 | ------- |
