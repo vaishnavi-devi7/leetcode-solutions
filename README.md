@@ -97,6 +97,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0595-big-countries) |
