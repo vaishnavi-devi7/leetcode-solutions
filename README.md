@@ -12,6 +12,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0054-spiral-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0049-group-anagrams](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +89,7 @@ Personal repository of LeetCode problems and optimal solutions, focusing on core
 | [0202-happy-number](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vaishnavi-devi7/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
